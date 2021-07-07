@@ -1,4 +1,6 @@
-# dashboard
+# Site Metrics
+
+I was not able to instal or run Design System in my environment. Therefore Design System components are utilized in as meaningful manner as I was able to by just looking at the source code.
 
 ## Project setup
 ```
